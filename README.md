@@ -1,1 +1,1 @@
-# ModHard
+# PlayHard
